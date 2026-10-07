@@ -2,14 +2,16 @@
 
 Investigação da relação entre a **atividade econômica brasileira** (índice de volume do PIB, IBGE) e o **fluxo de veículos nas rodovias pedagiadas** (Índice ABCR), com um modelo de regressão linear em Python.
 
-##integrantes
+## Integrantes
 
-##Vinicius Molena - Rm: 571270
-##Matheus ferreira - Rm: 569638
-##Ricardo Algazi - Rm: 569600
-##Nathan werner - Rm: 572925
-##Gabriel Vilas - Rm: 571603
-##Gustavo Henrique - Rm: 569921
+| Nome | RM |
+|---|---|
+| Vinicius Molena | 571270 |
+| Matheus Ferreira | 569638 |
+| Ricardo Algazi | 569600 |
+| Nathan Werner | 572925 |
+| Gabriel Vilas | 571603 |
+| Gustavo Henrique | 569921 |
 
 ## A tarefa
 
