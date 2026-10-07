@@ -2,6 +2,14 @@
 
 Investigação da relação entre a **atividade econômica brasileira** (índice de volume do PIB, IBGE) e o **fluxo de veículos nas rodovias pedagiadas** (Índice ABCR), com um modelo de regressão linear em Python.
 
+##integrantes
+
+##Vinicius Molena - Rm: 571270
+##Matheus ferreira - Rm: 569638
+##Ricardo Algazi - Rm: 569600
+##Nathan werner - Rm: 572925
+##Gabriel Vilas - Rm: 571603
+##Gustavo Henrique - Rm: 569921
 ## A tarefa
 
 O Produto Interno Bruto (PIB) é o valor dos bens e serviços finais produzidos em um país durante um período. O **índice de volume do PIB** acompanha a evolução da produção descontando o efeito das mudanças de preços: é construído encadeando as variações reais e adota um período de referência igual a 100 (na série utilizada, a média de 1995 = 100). Um índice de 120 representa um volume de produção 20% maior que o da referência.
